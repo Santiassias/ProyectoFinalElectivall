@@ -1,0 +1,10 @@
+# Entorno y credenciales
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Gráficas generadas por exportar_modelo.py
+*.png
